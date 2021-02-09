@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "Parthiv",
+    "id": "621479662538719232"
+  },
+  "service": "Viz",
+  "description": {
+    "en": "Viz is an anime site.",
+    "tr": "Viz bir anime sitesidir.",
+  },
+  "url": "viz.com",
+  "version": "1.0.0",
+  "logo": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/yhuba2ricrt3zgihfbwv",
+  "thumbnail": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/yhuba2ricrt3zgihfbwv",
+  "color": "#000000",
+  "tags": [
+    "manga",
+    "viz",
+    "anime"
+  ],
+  "category": "Anime"
+}
